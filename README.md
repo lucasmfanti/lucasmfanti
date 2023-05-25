@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Your Name], an enthusiastic data engineer with a passion for leveraging data to gain insights and understand the world around us.
+👋 Hello there! I'm Lucas Fanti, an enthusiastic data engineer with a passion for leveraging data to gain insights and understand the world around us.
 
 🔧 As an engineer, I enjoy working with various tools and technologies to solve complex data challenges. I'm always eager to learn and explore new tools, frameworks, and methodologies that can enhance my data engineering skills.
 
